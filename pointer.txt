@@ -1,4 +1,5 @@
-Hacker Rank  "Student Marks Sum"
+Hacker Rank  "Student Marks Sum"        
+
 
 #include <stdio.h>
 #include <string.h>
