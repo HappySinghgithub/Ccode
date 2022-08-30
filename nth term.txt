@@ -1,3 +1,9 @@
+         FIND NTH TERM USING last 3 digit using RECURSION 
+         Eg:- a[0]=1,a[2]=2,a[3]=3       find 4th term = a[3-1]+a[3-2]+a[3-3];
+                                                             4th term = 3+2+1=6
+                                                             
+                                                             
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
